@@ -18,3 +18,8 @@ Contém:
 
 * Preprocessamento, treinamento, EEfication e exportação do modelo para a Google AI Platform:https://colab.research.google.com/drive/15ajn3y2ySRInilaDacfj5TOVTssO7uMG?usp=sharing
 * Avaliação da Bacia de São Francisco Completa e Exportação para o Google Earth Engine: https://colab.research.google.com/drive/1jzfllak7RCafUSrIpKP7xgWVQhlZWDXi?usp=sharing
+
+---
+### Scripts de ArcGIS
+
+Na pasta `scripts`, estão disponíveis também arquivos de código Python utilizados como módulos para rotinas de geoprocessamento em ArcGIS.
